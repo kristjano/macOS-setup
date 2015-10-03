@@ -11,7 +11,7 @@ This is a shell script that installs [Homebrew](http://brew.sh), the missing pac
     ./Homebrew
 
 ## Brewfile
-A bundle for Homebrew containing all the essential packages for the terminal shell.
+A bundle for Homebrew containing all the essential packages for the terminal shell. The Homebrew shell script takes care of installing the packages. If you need to install them again or update run the following in this directory:
 
     brew bundle
 
