@@ -10,6 +10,7 @@ brew "wget"
 brew "node"
 
 # C/C++
+tap homebrew/dupes
 brew "cmake"
 brew "gdb"
 brew "cgdb"
