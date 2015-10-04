@@ -1,3 +1,6 @@
+# Open tap containing more recent versions of system tools
+tap "homebrew/dupes"
+
 # Update essentials
 brew "git"
 brew "vim"
@@ -10,9 +13,8 @@ brew "wget"
 brew "node"
 
 # C/C++
-tap homebrew/dupes
 brew "cmake"
-brew "gdb"
+brew "homebrew/dupes/gdb"
 brew "cgdb"
 brew "valgrind"
 
