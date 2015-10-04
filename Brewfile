@@ -14,7 +14,7 @@ brew "node"
 
 # C/C++
 brew "cmake"
-brew "homebrew/dupes/gdb"
+brew "gdb"
 brew "cgdb"
 brew "valgrind"
 
