@@ -4,5 +4,5 @@
 echo "/usr/local/bin/zsh" >> /etc/shells
 
 # set zsh as default shell
-chsh -s /usr/local/bin/zsh
+sudo -u ${SUDO_USER} chsh -s /usr/local/bin/zsh
 

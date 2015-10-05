@@ -18,6 +18,6 @@ A bundle for Homebrew containing all the essential packages for the terminal she
 ## zsh.sh
 A shell script that sets zsh as the default shell for terminal.
 
-    ./zsh.sh
+    sudo ./zsh.sh
 
 
