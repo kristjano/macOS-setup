@@ -20,4 +20,9 @@ A shell script that sets zsh as the default shell for terminal.
 
     sudo ./zsh.sh
 
+## defaults.sh
+A shell script that sets all the default settings for OS X.
+
+    ./defaults.sh
+
 
