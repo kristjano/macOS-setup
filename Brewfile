@@ -18,7 +18,13 @@ brew "gdb"
 brew "cgdb"
 brew "valgrind"
 
+# Python
+brew "python"
+brew "python3"
+
 # Misc
 brew "archey"
 brew "astyle"
+brew "tree"
+brew "wget"
 
