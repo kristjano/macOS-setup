@@ -8,3 +8,6 @@ defaults write NSGlobalDomain KeyRepeat -int 0
 
 # Set App Store to check for updates daily
 defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
+
+# Add goast effect on icons in Dock if app is hidden
+defaults write com.apple.Dock showhidden -bool TRUE
