@@ -4,7 +4,7 @@
 defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
 
 # Set a blazingly fast keyboard repeat rate
-defaults write NSGlobalDomain KeyRepeat -int 0
+defaults write NSGlobalDomain KeyRepeat -int 1
 
 # Set App Store to check for updates daily
 defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
