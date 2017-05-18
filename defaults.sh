@@ -14,3 +14,6 @@ defaults write com.apple.Dock showhidden -bool TRUE
 
 # Set Dock autohide to my preferred speed
 defaults write com.apple.dock autohide-time-modifier -float 0.3
+
+# When performing a search, search the current folder by default
+defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
