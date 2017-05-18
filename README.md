@@ -1,5 +1,5 @@
-# OS X - Setup
-This repository is a work in process and contains all the essential setups and packages for Mac OS X in my opinion.
+# macOS - Setup
+This repository is a work in process and contains all the essential setups and packages for macOS in my opinion.
 
 Before setup make sure that you have installed the command line tools.
 
@@ -21,7 +21,7 @@ A shell script that sets zsh as the default shell for terminal.
     sudo ./zsh.sh
 
 ## defaults.sh
-A shell script that sets all the default settings for OS X.
+A shell script that sets all the default settings for macOS.
 
     ./defaults.sh
 
