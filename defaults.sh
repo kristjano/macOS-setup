@@ -11,3 +11,6 @@ defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 
 # Add goast effect on icons in Dock if app is hidden
 defaults write com.apple.Dock showhidden -bool TRUE
+
+# Set Dock autohide to my preferred speed
+defaults write com.apple.dock autohide-time-modifier -float 0.3
